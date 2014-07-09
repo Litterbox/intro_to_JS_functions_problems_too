@@ -9,7 +9,7 @@
 
 // YOUR FUNCTION HERE
 var makeGreeting = function (name) {
-    return "Hello, " + name + "!!";
+    return "Hello, " + name + "!";
 };
 
 
