@@ -9,9 +9,7 @@
 
 
 // YOUR FUNCTION HERE
-var sayHelloTo = function (name) {
-    console.log("Hello, " + name + "!");
-};
+
 
 // LEAVE EVERYTHING BELOW HERE ALONE
 sayHelloTo("Sally");

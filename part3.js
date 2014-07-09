@@ -7,10 +7,8 @@
 // NOT use console.log(). Instead it will use
 // the return keyword.
 
+
 // YOUR FUNCTION HERE
-var greet = function (name) {
-    return "Hello, " + name + "!";
-};
 
 
 // LEAVE EVERYTHING BELOW HERE ALONE

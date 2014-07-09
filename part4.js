@@ -10,13 +10,8 @@
 
 
 // YOUR FUNCTION HERE!
-var greetOrInsult = function (name, nicely) {
-    if (true || nicely) {
-        return "Hello, " + name + "!";
-    } else {
-        return "You smell, " + name + "!";
-    }
-};
+
+
 
 // LEAVE EVERYTHING BELOW HERE ALONE
 var beNice = greetOrInsult("Bob", true);
