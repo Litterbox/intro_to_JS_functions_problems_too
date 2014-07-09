@@ -5,6 +5,7 @@
 // your terminal.  You should see "Hello, World!"
 // printed out in the terminal.
 
+// YOUR FUNCTION HERE!
 var sayHello =  function () {
     console.log("Hello, World!");
 };
