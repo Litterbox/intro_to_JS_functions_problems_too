@@ -8,14 +8,14 @@
 // the return keyword.
 
 // YOUR FUNCTION HERE
-var makeGreeting = function (name) {
+var greet = function (name) {
     return "Hello, " + name + "!";
 };
 
 
 // LEAVE EVERYTHING BELOW HERE ALONE
-var helloFrank = makeGreeting("Frank");
-var helloAlice = makeGreeting("Alice");
+var helloFrank = greet("Frank");
+var helloAlice = greet("Alice");
 if (helloFrank === "Hello, Frank!") {
     console.log("Congratulations, you greeted Frank");
 } else {
