@@ -1,9 +1,9 @@
 // Write a function that takes one argument,
-// someone's name, and prints "Hello" to them
+// someone's name, and says hello to them
 // in the console.
 
 // Hint: this function will look similar to
-// to the function in part one, accept it will
+// to the function in part one, except it will
 // take an argument and use it to build the
 // string that is logged to the console.
 
